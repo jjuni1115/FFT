@@ -1,1 +1,1 @@
-# FFT
+# fast Fourier transform on image
